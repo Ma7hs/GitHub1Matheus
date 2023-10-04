@@ -42,8 +42,8 @@ print('recuperando as chaves')
 for chave in meuDicionario:
   print(chave)
 
-print('\n')
-print('recuperando as chaves equivalente')
+print('\n');
+print('recuperando as chaves equivalente');
 for chave in meuDicionario.keys():
   print(chave)
 
